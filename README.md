@@ -1,6 +1,4 @@
 # Overview
 
-Claim tokens program implements on-chain free claim mechanizm for specific SPL token.
-You deploy claiming rules and top up holding wallet then users can start claim SPL tokens.
-It is done in order to provide a way for users to claim test tokens without contacting token holders.
+The claim tokens program implements an on-chain free claim mechanism for a specific SPL token. You establish claiming rules and fund a holding wallet, allowing users to claim SPL tokens. This provides a way for users to obtain test tokens without needing to contact token holders.
 
